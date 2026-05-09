@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"D:\\\\Image Processing\" status)",
+      "Bash(git -C \"D:\\\\Image Processing\" diff --stat HEAD)",
+      "Bash(git *)",
+      "Bash(python *)"
+    ]
+  }
+}
